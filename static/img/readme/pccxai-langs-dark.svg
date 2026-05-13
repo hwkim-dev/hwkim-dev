@@ -10,11 +10,11 @@
       <mask id="bar-mask-d">
         <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
       </mask>
-      <rect mask="url(#bar-mask-d)" x="0.00" y="0" width="104.86" height="8" fill="#3572a5"/>
-      <rect mask="url(#bar-mask-d)" x="104.86" y="0" width="59.23" height="8" fill="#dea584"/>
-      <rect mask="url(#bar-mask-d)" x="164.10" y="0" width="33.12" height="8" fill="#3178c6"/>
+      <rect mask="url(#bar-mask-d)" x="0.00" y="0" width="104.88" height="8" fill="#3572a5"/>
+      <rect mask="url(#bar-mask-d)" x="104.88" y="0" width="59.22" height="8" fill="#dea584"/>
+      <rect mask="url(#bar-mask-d)" x="164.11" y="0" width="33.11" height="8" fill="#3178c6"/>
       <rect mask="url(#bar-mask-d)" x="197.22" y="0" width="29.09" height="8" fill="#f1e05a"/>
-      <rect mask="url(#bar-mask-d)" x="226.30" y="0" width="23.70" height="8" fill="#2d7fbb"/>
+      <rect mask="url(#bar-mask-d)" x="226.31" y="0" width="23.69" height="8" fill="#2d7fbb"/>
       <g transform="translate(0, 25)">
         <g transform="translate(0, 0)">
           <g transform="translate(0, 0)">
@@ -33,7 +33,7 @@
         <g transform="translate(150, 0)">
           <g transform="translate(0, 0)">
         <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-        <text x="15" y="10" fill="#cdd9e5" font-family="'Segoe UI',Ubuntu,Sans-Serif" font-size="11">JavaScript 11.64%</text>
+        <text x="15" y="10" fill="#cdd9e5" font-family="'Segoe UI',Ubuntu,Sans-Serif" font-size="11">JavaScript 11.63%</text>
       </g>
       <g transform="translate(0, 25)">
         <circle cx="5" cy="6" r="5" fill="#2d7fbb"/>
