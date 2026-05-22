@@ -2,8 +2,10 @@ node_modules/
 build/
 .docusaurus/
 .ai-publish/
+_site/
 
 # Local tooling scratch
+.idea/
 .claude/
 .claudesignore
 CLAUDE.md
@@ -37,3 +39,6 @@ jules_result.md
 AI_PUBLISHING.md
 hkimw-cloudflare-pages-checklist.md
 apply-hkimw-cloudflare-pages-migration.sh
+
+*.log
+.DS_Store

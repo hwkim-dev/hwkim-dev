@@ -1,20 +1,26 @@
 <p align="center">
-  <a href="https://altifigence.com">
-    <img src="https://altifigence.com/favicon-512x512.png?v=20260519-a-icon" width="88" alt="Altifigence logo" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="static/img/me_dark.jpg">
+    <img src="static/img/me_light.jpg" width="180" alt="Hyunwoo Kim character portrait">
+  </picture>
+</p>
+
+<h1 align="center">김현우 (Hyunwoo Kim)</h1>
+
+<p align="center"><strong>Altifigence 대표 / PCCX — Edge LLM NPU</strong></p>
+
+<p align="center">
+  삼육대에서 공부했고, 인천을 기반으로 AI 반도체 스타트업 Altifigence와 PCCX를 만들고 있습니다.
 </p>
 
 <p align="center">
-  <a href="https://altifigence.com"><img src="https://img.shields.io/badge/Altifigence-Founder-111111?style=flat-square&logo=googlechrome&logoColor=white&labelColor=555555" alt="Altifigence founder" /></a>
-  <a href="https://pccx.ai"><img src="https://img.shields.io/badge/PCCX-pccx.ai-111111?style=flat-square&logo=apache&logoColor=white&labelColor=555555" alt="PCCX" /></a>
-  <a href="https://github.com/pccxai"><img src="https://img.shields.io/badge/GitHub-pccxai-111111?style=flat-square&logo=github&logoColor=white&labelColor=555555" alt="PCCX AI GitHub" /></a>
-  <a href="https://hkimw.pages.dev/"><img src="https://img.shields.io/badge/Notebook-hkimw.pages.dev-111111?style=flat-square&logo=cloudflare&logoColor=white&labelColor=555555" alt="technical notebook" /></a>
+  <a href="https://altifigence.com">Altifigence.com</a>
+  ·
+  <a href="https://pccx.ai">pccx.ai</a>
+  ·
+  <a href="https://github.com/hkimw">GitHub</a>
 </p>
 
-## PROFILE
-
-I am Hyunwoo Kim, founder of [altifigence.com](https://altifigence.com).
-
-Altifigence is the company layer for my current work. [PCCX](https://pccx.ai) is the flagship technology route for memory-bound Transformer inference, FPGA/NPU architecture, and practical edge AI systems.
-
-Pinned repositories below show the active codebases.
+<p align="center">
+  <a href="https://hkimw.github.io/hkimw/">GitHub Pages</a>
+</p>
