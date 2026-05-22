@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>김현우 (Hyunwoo Kim)</title>
+    <meta
+      name="description"
+      content="김현우 (Hyunwoo Kim) - Altifigence 대표 / PCCX Edge LLM NPU"
+    />
+    <meta name="color-scheme" content="light dark" />
+    <meta property="og:title" content="김현우 (Hyunwoo Kim)" />
+    <meta property="og:description" content="Altifigence 대표 / PCCX — Edge LLM NPU" />
+    <meta property="og:type" content="website" />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem('hkimw-theme');
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          document.documentElement.dataset.theme = saved || (prefersDark ? 'dark' : 'light');
+        } catch {
+          document.documentElement.dataset.theme = 'light';
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <main class="page" aria-labelledby="name">
+      <section class="card" aria-label="김현우 명함">
+        <div class="portrait" aria-hidden="true">
+          <img class="portrait-light" src="static/img/me_light.jpg" alt="" />
+          <img class="portrait-dark" src="static/img/me_dark.jpg" alt="" />
+        </div>
+
+        <div class="copy">
+          <div class="topline">
+            <p>Altifigence / PCCX</p>
+            <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle color mode">
+              <span data-theme-label>Dark</span>
+            </button>
+          </div>
+
+          <h1 id="name">김현우 <span>Hyunwoo Kim</span></h1>
+          <p class="role">Altifigence 대표 / PCCX — Edge LLM NPU</p>
+          <p class="bio">
+            삼육대에서 공부했고, 인천을 기반으로 AI 반도체 스타트업 Altifigence와 PCCX를
+            만들고 있습니다.
+          </p>
+
+          <nav class="links" aria-label="Profile links">
+            <a href="https://altifigence.com">Altifigence.com</a>
+            <a href="https://pccx.ai">pccx.ai</a>
+            <a href="https://github.com/hkimw">GitHub</a>
+          </nav>
+        </div>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
