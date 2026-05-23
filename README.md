@@ -5,13 +5,10 @@
   </picture>
 </p>
 
-<h1 align="center">김현우 (Hyunwoo Kim)</h1>
+<h1 align="center"> Hyunwoo Kim </h1>
 
-<p align="center"><strong>Altifigence 대표 / PCCX — Edge LLM NPU</strong></p>
+<p align="center"><strong>Altifigence Founder / PCCX — Edge LLM NPU</strong></p>
 
-<p align="center">
-  삼육대에서 공부했고, 인천을 기반으로 AI 반도체 스타트업 Altifigence와 PCCX를 만들고 있습니다.
-</p>
 
 <p align="center">
   <a href="https://altifigence.com">Altifigence.com</a>
